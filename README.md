@@ -1,23 +1,16 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Vedant Sharma</h1>
-<h3 align="center">Aspiring Data Analyst | B.Com Student | Excel • SQL • Power BI</h3>
+# 💫 About Me:
+<br><br>🎓 I’m a B.Com student and aspiring Data Analyst, with a strong interest in turning business numbers into clear answers.<br>📊 Hands-on with Excel, SQL, and Power BI for analysis, reporting, and dashboards.<br>🍕 Recent project: a Pizza Sales Dashboard in Power BI showing revenue, best-selling pizzas, and peak order times.<br>📚 Constantly improving my skills in data cleaning, visualization, and business analysis to find insights that actually help.<br>🌱 I enjoy learning new tools and working on projects that challenge me.<br>🤝 Always open to connecting with people in data and analytics, collaborating on projects, and exploring internships and entry-level opportunities.
 
-- 🌱 I’m currently learning **PYTHON,TABELAU**
 
-- 🍕 Recent project: a Pizza Sales Dashboard in Power BI showing revenue, best-selling pizzas, and peak order times [https://github.com/vedantsharmaa-VS/PIZZA-DASHBOARD](https://github.com/vedantsharmaa-VS/PIZZA-DASHBOARD)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vedantsharma___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedant Sharma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vedant Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantsharma0459@gmail.com) 
 
-- 📫 How to reach me **vedantsharma0459@gmail.com**
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vedantsharmaa-VS&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vedantsharmaa-VS&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedantsharmaa-VS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vedant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant sharma" height="30" width="40" /></a>
-<a href="https://fb.com/vedant sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedant sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/_vedantsharma___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vedantsharma___" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/171005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="171005" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<!--
-**vedantsharmaa-VS/vedantsharmaa-VS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
