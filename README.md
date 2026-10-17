@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🎓 I’m a B.Com student and aspiring Data Analyst, with a strong interest in turning business numbers into clear answers.<br>📊 Hands-on with Excel, SQL, and Power BI for analysis, reporting, and dashboards.📚 Constantly improving my skills in data cleaning, visualization, and business analysis to find insights that actually help.<br>🌱 I enjoy learning new tools and working on projects that challenge me.<br>🤝 Always open to connecting with people in data and analytics, collaborating on projects, and exploring internships and entry-level opportunities.
+<br><br>🎓 I’m a B.Com student and aspiring Data Analyst, with a strong interest in turning business numbers into clear answers.<br>📊 Hands-on with Excel, SQL, and Power BI for analysis, reporting, and dashboards.<br>📚 Constantly improving my skills in data cleaning, visualization, and business analysis to find insights that actually help.<br>🌱 I enjoy learning new tools and working on projects that challenge me.<br>🤝 Always open to connecting with people in data and analytics, collaborating on projects, and exploring internships and entry-level opportunities.
 
 
 ## 🌐 Socials:
